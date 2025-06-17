@@ -43,5 +43,9 @@ The script will display two plots:
 * This version uses a simplified MOSFET model and does not include second-order effects like channel length modulation.
 * The physical constants and default MOSFET parameters are defined within the script and can be modified if needed.
 
+## 📌 License
+This project is licensed under the [MIT License](LICENSE).
+
+
 ## Author
 Mohamed Adel Elwekel
