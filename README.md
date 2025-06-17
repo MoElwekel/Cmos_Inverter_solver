@@ -45,5 +45,8 @@ The script will display two plots:
 * This version incorporates channel length modulation for a more accurate simulation of real-world CMOS inverter behavior.
 * The physical constants and default MOSFET parameters are defined within the script and can be modified if needed. The LAMBDA parameter for both NMOS and PMOS is included in their respective parameter dictionaries.
 
+## 📌 License
+This project is licensed under the [MIT License](LICENSE).
+
 ## Author
 Mohamed Adel Elwekel
